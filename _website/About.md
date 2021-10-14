@@ -4,6 +4,7 @@
 	date: "2021-09-20"
 }
 ---
+
 **Alfred Reinold Baudisch** Software engineer and database architect with 26 years of development experience, specialized in real-time systems and APIs, currently working with **Elixir, Phoenix and Phoenix LiveView**. From 🇧🇷, living in Copenhagen 🇩🇰.
 
 [Savant](https://en.wikipedia.org/wiki/Savant_syndrome) (diagnosed), [polymath](https://en.wikipedia.org/wiki/Polymath) and hyper-learner, currently mostly focused on learning (and practicing) art in general. But my focus change constantly.

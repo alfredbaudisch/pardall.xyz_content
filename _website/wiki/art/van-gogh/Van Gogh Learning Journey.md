@@ -1,8 +1,9 @@
-## %{
+%{
 position: 0,
 summary: "Follow Van Gogh's footsteps in his journey to learn how to draw and how to paint, his first sketches, his course of actions and more. A detailed study with extracts from his letters.",
 thumbnail: "/_resources/800bcfdd4dc24143962eda9641cef534.png"
 }
+---
 
 # Introduction
 

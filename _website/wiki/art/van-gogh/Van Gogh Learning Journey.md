@@ -846,9 +846,11 @@ Scheveningen woman (F 871 / JH 85), 1881 - Pencil, transparent watercolour - 23.
 > I’m not afraid of a fresh green or a soft blue and the thousand different greys, for **there’s hardly any colour that isn’t a grey**: red-grey, yellow-grey, green-grey, blue-grey. This is what all colour mixing comes down to.
 
 ![b3d00b1fbd87356464f36a5b5f220c22.png](../../../../_resources/b3d00b1fbd87356464f36a5b5f220c22.png)
+
 Fish-drying barn (F 945 / JH 160), 1882 - Watercolour - 35.5 x 52 cm
 
 ![1d3d5089d7bd720c728818b997c796fb.png](../../../../_resources/1d3d5089d7bd720c728818b997c796fb.png)
+
 Fish-drying barn (F 940 / JH 154), 1882 - Pen, pencil, heightened with white - 28.5 x 45 cm
 
 ## 252 (31/07/82), 29yrs, Importance of Drawing; Fundamentals of color; Commercial value
@@ -897,6 +899,7 @@ Fish-drying barn (F 940 / JH 154), 1882 - Pen, pencil, heightened with white - 2
 > The colourist is he who on seeing a colour in nature is able to analyze it coolly and say, for example, that green-grey is yellow with black and almost no blue, &c. In short, knowing how to make up the greys of nature on the palette.
 
 ![46f3f1f44870401196cf1ea1fdce36f5.png](../../../../_resources/46f3f1f44870401196cf1ea1fdce36f5.png)
+
 Pollard willow (F 947 / JH 164), 1882 - Watercolour - 36 x 56.5 cm
 
 ## 253 (05/08/82), 29yrs, New perspective frame ordered; Palette made
@@ -911,6 +914,7 @@ Pollard willow (F 947 / JH 164), 1882 - Watercolour - 36 x 56.5 cm
 > I place great value on having good materials, and would like my studio to look substantial ... through the studies on the walls and good tools. That will have to come with work and time.
 
 ![1b3c397e88777149cdd4a8299ad60937.png](../../../../_resources/1b3c397e88777149cdd4a8299ad60937.png)
+
 Perspective frame
 
 ![c21c006accf0cdc947fc7a6faa9c855e.png](../../../../_resources/c21c006accf0cdc947fc7a6faa9c855e.png)
@@ -919,6 +923,7 @@ Perspective frame
 > I now have all the essentials for proper painting. **I’ve limited myself to simple colours** in both watercolour and oil: ochre (red, yellow, brown), cobalt and Prussian blue, Naples yellow, terra sienna, black and white, supplemented with some carmine, sepia, vermilion, ultramarine, gamboge in smaller tubes.
 
 ![173dc568018036f1f9f94587fcf07d6f.png](../../../../_resources/173dc568018036f1f9f94587fcf07d6f.png)
+
 Palette sketch
 
 ## 254 (05-06/08/82), 29yrs, New perspective frame; Back to painting after 6 months
@@ -969,6 +974,7 @@ Palette sketch
 > after a month of regular painting the studio will look completely different
 
 ![be1db7aece00aa93e84c04dc6929e8a6.png](../../../../_resources/be1db7aece00aa93e84c04dc6929e8a6.png)
+
 Beach with fishing boats (F 2 / JH 173), 1882 - Oil on paper on panel
 
 ## 259 (26/08/82), 29yrs, View of the sea painting (filled with sand)
@@ -979,6 +985,7 @@ Beach with fishing boats (F 2 / JH 173), 1882 - Oil on paper on panel
 > **Figure painting attracts me enormously, but it still has to ripen**. I need to become better acquainted with the method — what is sometimes called ‘the cookery of art’. In the beginning I’ll have to scrape off a great deal — and often make a new start – but I feel that I’m learning as a result, and that it gives me a new, fresh view of things.
 
 ![bc0d4d85db9a3040cf9086d0008564f2.png](../../../../_resources/bc0d4d85db9a3040cf9086d0008564f2.png)
+
 View of the sea at Scheveningen (F 4 / JH 187), 1882 - Oil on canvas, Van Gogh Museum
 
 ## From 484 (02/03/85), 31yrs to 501 (06/05/85), 32yrs, First Major Work: The Potato Eaters

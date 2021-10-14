@@ -1,0 +1,32 @@
+name: Content Deployment CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  deployment:
+    name: Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$SSH_KEY" > ~/.ssh/production.key
+          chmod 600 ~/.ssh/production.key
+          cat >>~/.ssh/config <<END
+          Host production
+            HostName $SSH_HOST
+            User $SSH_USER
+            IdentityFile ~/.ssh/production.key
+            StrictHostKeyChecking no
+          END
+        env:
+          SSH_USER: ${{ secrets.ssh_username }}
+          SSH_KEY: ${{ secrets.ssh_key }}
+          SSH_HOST: ${{ secrets.ssh_host }}
+          
+      - name: Deploy!
+        run: ssh production bash -l -c ./pull_content_pardall.sh

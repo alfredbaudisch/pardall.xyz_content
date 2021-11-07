@@ -1,6 +1,6 @@
 %{
 	summary: "Alfred Reinold Baudisch (Pardall): savant, polymath, software engineer and database architect with 26 years of development experience, obsessed by Art and Dachshund dogs. See more about the author and what powers this website.",
-	thumbnail: "/_resources/9002684aee164899a463ea7926b41286.jpg",
+	thumbnail: "/_resources/200205-Alfred-Koda.jpg",
 	date: "2021-09-20"
 }
 ---

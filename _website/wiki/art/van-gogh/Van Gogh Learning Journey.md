@@ -1,7 +1,7 @@
 %{
 position: 0,
-summary: "Follow Van Gogh's footsteps in his journey to learn how to draw and how to paint, his first sketches, his course of actions and more. A detailed study with extracts from his letters.",
-thumbnail: "/_resources/800bcfdd4dc24143962eda9641cef534.png"
+summary: "Follow Van Gogh's footsteps in his route to learn how to draw and how to paint, his first sketches, his course of actions and more. A detailed study with extracts from his letters.",
+thumbnail: "/_resources/948cb5d9282b23a753084f6e7c2a6d55.png"
 }
 ---
 
@@ -107,7 +107,7 @@ There's still no expressed desire about studying drawing or being an artist.
 ### Focus on Drawing Again
 - **01/82**: Stops painting, goes back to drawing
 - **05/08/82, 29yrs, (253)**: New perspective frame, Paint Palette made
-- **10-11/08/82, 29yrs, (255)**: After more than 6 months devoted to drawing, considers drawing the skeleton and foundation of every painting, and goes back to oil painting; First seascape painting
+- **10-11/08/82, 29yrs, (255)**: After more than 6 months devoted to drawing, considers drawing as *"the skeleton and foundation of every painting"*, and goes back to oil painting; First seascape painting
 
 ### First Major Work: The Potato Eaters
 His first major work was finished only in 06/05/85, 5 years after he started as an artist. I created a detailed page about [Van Gogh's Journey with The Potato Eaters](/wiki/art/van-gogh/van-gogh-journey-with-the-potato-eaters).
@@ -532,13 +532,13 @@ Van Gogh, Windmills near Dordrecht (F 850 / JH 15), 1881 - Pencil, black and gre
 > 
 > Prompted as well by a thing or two that Mauve said to me, I’ve started working again from a live model
 > 
-> The careful study, the constant and repeated drawing of Bargue’s Exercices au fusain has given me more insight into figure drawing. I’ve learned to measure and to see and to attempt the broad outlines &c. So that what used to seem to me to be desperately impossible is now gradually becoming possible, thank God. I’ve drawn a peasant with a spade no fewer than 5 times, ‘a digger’ in fact, in all kinds of poses,2 twice a sower,3 twice a girl with a broom.4 Also a woman with a white cap who’s peeling potatoes,5 and a shepherd leaning on his crook,6 and finally an old, sick peasant sitting on a chair by the fireplace with his head in his hands and his elbows on his knees.
+> **The careful study, the constant and repeated drawing of Bargue’s Exercices au fusain has given me more insight into figure drawing. I’ve learned to measure and to see and to attempt the broad outlines &c. So that what used to seem to me to be desperately impossible is now gradually becoming possible**. I’ve drawn a peasant with a spade no fewer than 5 times, ‘a digger’ in fact, in all kinds of poses, twice a sower, twice a girl with a broom. Also a woman with a white cap who’s peeling potatoes, and a shepherd leaning on his crook, and finally an old, sick peasant sitting on a chair by the fireplace with his head in his hands and his elbows on his knees.
 > 
 > And it won’t stop there, of course, once a couple of sheep have crossed the bridge the whole flock follows.
 > 
-> Diggers, sowers, ploughers, men and women I must now draw constantly. Examine and draw everything that’s part of a peasant’s life. Just as many others have done and are doing. I’m no longer so powerless in the face of nature as I used to be.
+> Diggers, sowers, ploughers, men and women I must now draw constantly. **Examine and draw everything that’s part of a peasant’s life**. Just as many others have done and are doing. **I’m no longer so powerless in the face of nature as I used to be**.
 > 
-> ‘the factory is in full swing’, as Mauve says.
+> **‘the factory is in full swing’**, as Mauve says.
 
 ### Sketches
 
@@ -548,7 +548,9 @@ Van Gogh, Windmills near Dordrecht (F 850 / JH 15), 1881 - Pencil, black and gre
 
 ![a7e99f779b16092b10abc4c4d03fbaef.png](../../../../_resources/a7e99f779b16092b10abc4c4d03fbaef.png)
 
-![d268694502583f1786f5236c3e3bb345.png](../../../../_resources/d268694502583f1786f5236c3e3bb345.png)
+![9cb5f332f4f65af8fe6fbffd315fa375.png](../../../../_resources/9cb5f332f4f65af8fe6fbffd315fa375.png)
+
+![fccdfdaf3e2532f3c18e1d1268a59795.png](../../../../_resources/fccdfdaf3e2532f3c18e1d1268a59795.png)
 
 ### Finished drawings and paintings
 

@@ -1,6 +1,6 @@
 %{
 	summary: "Alfred Reinold Baudisch (Pardall): savant, polymath, software engineer and database architect with 26 years of development experience, obsessed by Art and Dachshund dogs. See more about the author and what powers this website.",
-	thumbnail: "/_resources/f38feec6c0f7537d00f3c078c7875b9e.png",
+	thumbnail: "/_resources/9002684aee164899a463ea7926b41286.jpg",
 	date: "2021-09-20"
 }
 ---
@@ -14,7 +14,7 @@
 > **Savant syndrome** is a rare condition in which someone who generally has a neurodevelopmental disorder such as autism spectrum disorder demonstrates certain abilities far in excess of average. The skills that savants excel at are generally related to memory.
 
 ## More about me
-![Alfred Reinold Baudisch - Pardall](../_resources/f38feec6c0f7537d00f3c078c7875b9e.png)
+![200205-Alfred-Koda.jpg](../_resources/200205-Alfred-Koda.jpg)
 
 Jack of all trades, autistic savant, hyper-learner, master of learning techniques, master of software engineering and database architecture, with more than 26 of software development experience (I started when I was 8 years old).
 

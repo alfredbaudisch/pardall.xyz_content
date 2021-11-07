@@ -1,7 +1,7 @@
 %{
 	position: 1,
 	summary: "With The Potato Eaters, Van Gogh's first major work, he wanted to depict peasants as they really were. In this article, let's explore his journey while creating this masterpiece: from the first studies, to the idea until completion and shipment of the painting.",
-	thumbnail: "/_resources/02c7772748be412fa414851b23367643.png"
+	thumbnail: "/_resources/7c15132cfe818f6bd160a026cd21a9c6.png"
 }
 ---
 
@@ -22,6 +22,15 @@ Upon completion of "The Potato Eaters," Van Gogh thought it was his best work to
 
 This is Vincent's only group portrait painting.
 
+The studies and the paintings were all created while he was in **Neunen**, The Netherlands.
+
+## Formatting
+
+- Numbers (ex: 193) refer to the letter number where the accompanying content/information was extracted from.
+- I also added his age at the time of the writing of each letter alongside each letter number, in order to understand better how he progressed during his journey.
+- Date format: DD/MM/YY.
+    - In most cases I did not write the full number of the years (ex: 1880). But be aware that they obviously refer to the century of 1800's (ex: 07/09/74 refers to 07/September/1874).
+
 # Timeline highlights
 One month of head studies, before considering The Potato Eaters painting itself. Then, one month between the plan (06/04/85) of making The Potato Eaters to shipping the finished painting (06/05/85).
 
@@ -40,6 +49,7 @@ In total, two months of preparations and one whole month of work in the painting
 - **06/05/85 (501)**: Painting shipped to Theo
 
 # Detailed timeline with letters and images
+
 ## 484 (02/03/85), 31yrs, Beginning of studies for The Potato Eaters?
 http://vangoghletters.org/vg/letters/let484/letter.html
 
@@ -360,11 +370,15 @@ Clément (Edouard) Bellenger after Léon Augustin Lhermitte, Ploughing, in Le Mo
 
 Clément (Edouard) Bellenger after Léon Augustin Lhermitte, Swallows or Gardening, in Le Monde Illustré 29 (25 April 1885)
 
-## 497 (30/04/85), 32yrs, Not finished yet
+## Initial signs and studies
+
+
+## 497 (30/04/85), 32yrs, A whole winter of studies
 http://vangoghletters.org/vg/letters/let497/letter.html
 
 - Potato Eaters is quite not finished yet
 - "a formidable fight", at times I feared that it wouldn’t come off"
+- "it’s taken a whole winter of painting studies of heads and hands"
 
 > I would like to have sent you the painting of the potato eaters for this day, but although it’s coming along well, it’s not quite finished yet. 
 >

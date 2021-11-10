@@ -5,7 +5,7 @@ summary: "Van Gogh's route on learning how to paint.",
 ---
 
 # Introduction
-This page is still very much a **work in progress**.
+This page is still very much a work in progress.
 
 See more:
 - [Van Gogh Learning Journey

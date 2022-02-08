@@ -1,0 +1,15 @@
+{
+  "snippets_file": "ccc : ```cpp$nl$$end$$nl$```\n\ncelixir : ```elixir$nl$$end$$nl$```\n\ncsql : ```sql$nl$$end$$nl$```",
+  "snippets": [
+    "ccc : ```cpp$nl$$end$$nl$```",
+    "celixir : ```elixir$nl$$end$$nl$```",
+    "csql : ```sql$nl$$end$$nl$```"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/"
+}

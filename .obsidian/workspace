@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "6fa10ed22627633f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dd7c66ac1607a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d32a825c47e5f552",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcfa8b445d96d293",
+        "type": "tabs",
+        "dimension": 82.9004329004329,
+        "children": [
+          {
+            "id": "e8be36695ba7771f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "323fb8387bcec2da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "normal",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffd3816d464b8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9405c53fc78f193f",
+        "type": "tabs",
+        "dimension": 17.099567099567103,
+        "children": [
+          {
+            "id": "f944ae70ee09b216",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "d462834d56a973fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d36c9c11f329efa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89099643ebc1e12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be1a89146f7bfba8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c776e7fe0e3d01ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md"
+              }
+            }
+          },
+          {
+            "id": "0f17315ccbbe341c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fda20c5756d26b1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 487,
+    "collapsed": true
+  },
+  "active": "d8dd7c66ac1607a7",
+  "lastOpenFiles": [
+    "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
+    "_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
+    "_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",
+    "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+    "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+    "pardall.xyz/_website/wiki/art/blender/Untitled.md",
+    "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",
+    "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
+    "pardall.xyz/_website/wiki/_index.md",
+    "Projects/GameDev/Math/Sinuca Reflection.md"
+  ]
+}

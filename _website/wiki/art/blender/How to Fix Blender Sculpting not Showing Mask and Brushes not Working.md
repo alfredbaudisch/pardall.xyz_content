@@ -3,6 +3,8 @@
 }
 ---
 
+## The problem
+
 Are you trying to sculpt in Blender but none of the brushes seem to be working? Are you using the Mask Tool in Blender sculpting, but the masked area does not appear, like that it's invisible, but then when you try to use the other brushes, they act like the mask is currently active?
 
 ![](../../../../_resources/blender-sculpt-mask-brush-not-working.gif)
@@ -14,7 +16,7 @@ For example, even although masking seemed to be not working, if I tried sculptin
 ![](../../../../_resources/blender-sculpting-brushes-not-working-mask-hidden.gif)
 
 ## The solution
-Turns out there's a setting for setting up the masked area opacity as always toggling the mask visibility. Go to Show Overlays and mark "Show Mask". Also, adjust the opacity of the mask there.
+Turns out there's a setting for setting up the masked area opacity as well toggling the mask visibility. Go to Show Overlays and mark "Show Mask". Also, adjust the opacity of the mask there.
 
 ![](../../../../_resources/blender-sculpting-mask-opacity-mask-not-showing.jpg)
 

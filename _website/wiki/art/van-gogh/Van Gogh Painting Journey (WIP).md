@@ -1,6 +1,7 @@
 %{
 position: 2,
 summary: "Van Gogh's route on learning how to paint.",
+date: "2021-11-11"
 }
 ---
 

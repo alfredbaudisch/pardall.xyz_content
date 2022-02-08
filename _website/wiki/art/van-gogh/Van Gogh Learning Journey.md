@@ -1,11 +1,14 @@
 %{
 position: 0,
 summary: "Follow Van Gogh's footsteps in his route to learn how to draw and how to paint, his first sketches, his course of actions and more. A detailed study with extracts from his letters.",
-thumbnail: "/_resources/948cb5d9282b23a753084f6e7c2a6d55.png"
+thumbnail: "/_resources/948cb5d9282b23a753084f6e7c2a6d55.png",
+date: "2022-01-20"
 }
 ---
 
 # Introduction
+
+How did Van Gogh learn how to draw? How did Van Gogh learn art? When did Van Gogh start drawing?
 
 This page contains extracts from [Van Gogh letters](http://vangoghletters.org/) related to his learning and practice journey as an artist, his footsteps as an artist. It contains his first sketches, his first drawings, his declaration of intent of being an arist, list of books that he studied, his first paintings and more.
 

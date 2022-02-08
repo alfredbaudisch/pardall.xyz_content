@@ -1,7 +1,8 @@
 %{
-	position: 1,
-	summary: "With The Potato Eaters, Van Gogh's first major work, he wanted to depict peasants as they really were. In this article, let's explore his journey while creating this masterpiece: from the first studies, to the idea until completion and shipment of the painting.",
-	thumbnail: "/_resources/7c15132cfe818f6bd160a026cd21a9c6.png"
+position: 1,
+summary: "With The Potato Eaters, Van Gogh's first major work, he wanted to depict peasants as they really were. In this article, let's explore his journey while creating this masterpiece: from the first studies, to the idea until completion and shipment of the painting.",
+thumbnail: "/_resources/7c15132cfe818f6bd160a026cd21a9c6.png",
+date: "2021-11-10"
 }
 ---
 

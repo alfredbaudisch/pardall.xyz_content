@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+            "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md"
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+                "file": "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,10 @@
   },
   "active": "d8dd7c66ac1607a7",
   "lastOpenFiles": [
+    "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
     "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
     "_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",
     "_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
-    "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
     "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
     "pardall.xyz/_website/wiki/art/blender/Untitled.md",
     "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",

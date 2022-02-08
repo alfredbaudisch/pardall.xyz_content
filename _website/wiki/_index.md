@@ -1,5 +1,5 @@
 %{
-	sort_by: "position",
-	sort_order: "asc"
+	sort_by: "date",
+	sort_order: "desc"
 }
 ---

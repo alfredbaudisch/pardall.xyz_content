@@ -1,13 +1,13 @@
 %{
-	summary: "Alfred Reinold Baudisch (Pardall): savant, polymath, software engineer and database architect with 26 years of development experience, obsessed by Art and Dachshund dogs. See more about the author and what powers this website.",
+	summary: "Alfred Reinold Baudisch (Pardall): savant, polymath, software engineer and database architect with 27 years of development experience. Indie game developer and digital artist. See more about the author and what powers this website.",
 	thumbnail: "/_resources/200205-Alfred-Koda.jpg",
 	date: "2021-09-20"
 }
 ---
 
-**Alfred Reinold Baudisch** Software engineer and database architect with 26 years of development experience, specialized in real-time systems and APIs, currently working with **Elixir, Phoenix and Phoenix LiveView**. From 🇧🇷, living in Copenhagen 🇩🇰.
+**Alfred Reinold Baudisch**, software engineer and database architect with almost 30 years of development experience, specialized in real-time systems and APIs, currently working with **Elixir, Phoenix and Phoenix LiveView**. From 🇧🇷, living in Copenhagen 🇩🇰.
 
-[Savant](https://en.wikipedia.org/wiki/Savant_syndrome) (diagnosed), [polymath](https://en.wikipedia.org/wiki/Polymath) and hyper-learner, currently mostly focused on learning (and practicing) art in general. But my focus change constantly.
+[Savant](https://en.wikipedia.org/wiki/Savant_syndrome) (diagnosed), [polymath](https://en.wikipedia.org/wiki/Polymath) and hyper-learner. Hobbyist indie game developer and digital artist. But my focus change constantly.
 
 > **A polymath**, ("having learned much", "universal person") is an individual whose knowledge spans a substantial number of subjects, known to draw on complex bodies of knowledge to solve specific problems.
 >
@@ -16,13 +16,14 @@
 ## More about me
 ![200205-Alfred-Koda.jpg](../_resources/200205-Alfred-Koda.jpg)
 
-Jack of all trades, autistic savant, hyper-learner, master of learning techniques, master of software engineering and database architecture, with more than 26 of software development experience (I started when I was 8 years old).
+**See more on my [personal website](https://alfredbaudisch.com/).** Jack of all trades, autistic savant, hyper-learner, master of learning techniques, master of software engineering and database architecture, with more than 26 of software development experience (I started when I was 8 years old).
 
 I have worked on hundreds of software development projects, using many different languages and frameworks. 
 
 **My biggest passion in life is to learn new things and abilities** and to experiment with them, **creating all kinds of projects projects, especially projects related to Coding, Art, and Games**. This is clearly shown by the number of projects and single pieces of work that I have created in the past two decades.
 
 My main focus of interest, in terms of hobby:
+- Indie game development with Godot and Unreal Engine
 - Art (history of art, digital art, master painters and masterpieces, spending hours at museums, spending days reading art books and also doing art myself).
 - Dachshund Dogs.
 
@@ -67,7 +68,7 @@ This website is also a proof of concept for my framework [PardallMarkdown](https
 - [Elixir](https://elixir-lang.org/), [Phoenix Framework](https://phoenixframework.org/) and [Phoenix LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
 - [PardallMarkdown](https://github.com/alfredbaudisch/pardall_markdown)
 	- My own framework: a reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
-- Content is created in [Joplin](https://joplinapp.org/), then exported as Markdown to a folder in my computer. The folder is then synced automatically to the server using [SyncThings](https://syncthing.net/) and then PardallMarkdown immediatelly publish the changes to the website. Magic.
+- Content is created in [Joplin](https://joplinapp.org/) or [Obsidian](https://obsidian.md/), which is just a folder in my computer (with Markdown files and media like images). The folder is then pushed to a [Git repository](https://github.com/alfredbaudisch/pardall.xyz_content) and then PardallMarkdown automatically pulls from the repository and publish the changes to the website. 
 - You can build the same website, check the [demo repository](https://github.com/alfredbaudisch/pardall-markdown-phoenix-demo).
 - The template is a basic [Bootstrap](https://getbootstrap.com/) template, I didn't want to spend a lot of time with HTML and CSS (maybe one day I'll create a better template).
 

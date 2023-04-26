@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -17,7 +18,6 @@
   "outline",
   "word-count",
   "audio-recorder",
-  "open-with-default-app",
   "workspaces",
   "file-recovery"
 ]

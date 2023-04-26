@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "6fa10ed22627633f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ae2d90dcbcf71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8dd7c66ac1607a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a1ff23f9c80d298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5cb7061740d7246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d32a825c47e5f552",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcfa8b445d96d293",
+        "type": "tabs",
+        "dimension": 82.9004329004329,
+        "children": [
+          {
+            "id": "e8be36695ba7771f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "323fb8387bcec2da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "normal",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffd3816d464b8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9405c53fc78f193f",
+        "type": "tabs",
+        "dimension": 17.099567099567103,
+        "children": [
+          {
+            "id": "f944ae70ee09b216",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "d462834d56a973fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d36c9c11f329efa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89099643ebc1e12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be1a89146f7bfba8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c776e7fe0e3d01ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md"
+              }
+            }
+          },
+          {
+            "id": "0f17315ccbbe341c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fda20c5756d26b1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 487,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "e8be36695ba7771f",
+  "lastOpenFiles": [
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-6.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-5.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-4.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-3.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-2.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-1.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-Runtime-Library.png",
+    "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio---Add-Raylib-project-into-Solution.png",
+    "_resources/raylib/Quickly-Setup a raylib project with Visual Studio-6.png",
+    "_resources/raylib/Quickly-Setup a raylib project with Visual Studio-5.png",
+    "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
+    "_website/wiki/tools/obsidian",
+    "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+    "_website/wiki/tools",
+    "_website/wiki/tools/obsidian",
+    "_website/wiki/tools",
+    "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+    "_website/About.md",
+    "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
+    "_resources/raylib",
+    "_resources/New folder",
+    "_website/wiki/gamedev/raylib",
+    "_website/wiki/gamedev",
+    "_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",
+    "_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
+    "_website/wiki/art/van-gogh/_index.md",
+    "_website/wiki/_index.md",
+    "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
+    "pardall.xyz/_website/wiki/art/blender/Untitled.md",
+    "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Learning Journey.md"
+  ]
+}

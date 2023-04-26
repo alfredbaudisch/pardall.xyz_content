@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "file": "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "file": "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md"
+                "file": "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+                "file": "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,12 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "e8be36695ba7771f",
+  "active": "a5cb7061740d7246",
   "lastOpenFiles": [
+    "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
+    "_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
+    "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
+    "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
     "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-6.png",
     "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-5.png",
     "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-4.png",
@@ -213,14 +217,10 @@
     "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio-Runtime-Library.png",
     "_resources/raylib/Quickly-Setup-a-raylib-project-with-Visual-Studio---Add-Raylib-project-into-Solution.png",
     "_resources/raylib/Quickly-Setup a raylib project with Visual Studio-6.png",
-    "_resources/raylib/Quickly-Setup a raylib project with Visual Studio-5.png",
-    "_website/wiki/tools/obsidian/Replace Obsidian Wiki image inserts with Markdown image links.md",
     "_website/wiki/tools/obsidian",
-    "_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",
     "_website/wiki/tools",
     "_website/wiki/tools/obsidian",
     "_website/wiki/tools",
-    "_website/wiki/gamedev/raylib/Quickly Setup a raylib project with Visual Studio.md",
     "_website/About.md",
     "_website/wiki/art/blender/How to Fix Blender Sculpting not Showing Mask and Brushes not Working.md",
     "_resources/raylib",
@@ -228,7 +228,6 @@
     "_website/wiki/gamedev/raylib",
     "_website/wiki/gamedev",
     "_website/wiki/art/van-gogh/Van Gogh Learning Journey.md",
-    "_website/wiki/art/van-gogh/Van Gogh Painting Journey (WIP).md",
     "_website/wiki/art/van-gogh/_index.md",
     "_website/wiki/_index.md",
     "pardall.xyz/_website/wiki/art/van-gogh/Van Gogh Journey with The Potato Eaters.md",

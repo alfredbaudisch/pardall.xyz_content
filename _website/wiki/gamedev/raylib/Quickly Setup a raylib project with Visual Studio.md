@@ -1,8 +1,15 @@
+%{
+summary: "Dead easy VS2022 project setup with raylib as a submodule"
+}
+---
 
 How to create an empty Visual Studio project with raylib ready to use without having to use templates, CMake or other complex steps?
 
 - Create a new Visual Studio project choose Empty C++ Project.
 - Go to the project folder and create a new subfolder called "deps" (or any other name as you prefer for a folder to store external dependencies).
+
+## Get from GitHub
+- If you want, you can skip this article and get the ready to use Visual Studio template from my [GitHub](https://github.com/alfredbaudisch/EasyRaylibVS).
 
 ## Downloading raylib
 - We now have to download raylib. You have two options: as a Git submodule or by downloading it from the website directly.
